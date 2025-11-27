@@ -3,7 +3,7 @@
 This folder contains my summary for the course **Computational Models, Computability and Complexity** (67521) taught at Hebrew University of Jerusalem (2025).
 
 ## 📄 Contents
-- `intro to object oriented programming summary.pdf` — Full summary of the course.
+- `computational models computability and complexity summary.pdf` — Full summary of the course.
 
 ## 📚 Main Topics Covered
 - Topic 1: Deterministic Finite Automata (DFA)
