@@ -5,7 +5,7 @@ This folder contains my summary for the course **Object Oriented Programming** (
 ## 📄 Contents
 - `intro to object oriented programming summary.pdf` — Full summary of the course.
 
-## 📝 Topics Covered
+## 📚 Topics Covered
 - Topic 1: Intro to Objects and Java
 - Topic 2: Encapsulation and API
 - Topic 3: Interfaces and Polymorphism
