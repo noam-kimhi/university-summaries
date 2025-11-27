@@ -1,6 +1,7 @@
 # Computational Models, Computability and Complexity ⚙️ — Summary
 
 This folder contains my summary for the course **Computational Models, Computability and Complexity** (67521) taught at Hebrew University of Jerusalem (2025).
+This summary was chosen as the official student summary for 2025 Semester B.
 
 ## 📄 Contents
 - `computational models computability and complexity summary.pdf` — Full summary of the course.
