@@ -10,7 +10,7 @@ Each folder contains a summary for a specific course and other useful materials:
 
 - [Introduction toObject Oriented Programming (67125) 🌳](intro-to-object-oriented-programming-67125)  
 - [Computational Models, Computability and Complexity (67521) ⚙️](computational-models-computability-and-complexity-67521)  
-- [Databases (67506) 💾](databases-67506)  
+- [Databases (67506) 🛢️](databases-67506)  
 
 ---
 
@@ -36,11 +36,5 @@ The repository is intended **solely for educational and non-commercial purposes*
 
 These are **not official course material**.  
 Content may include personal interpretations, abbreviations, or unintentional mistakes. Use it as supplementary material only.
-
----
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](<path_to_CONTRIBUTING.md>) for detail.
 
 ---
