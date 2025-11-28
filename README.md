@@ -8,9 +8,13 @@ This repo contains summaries of the courses I have taken at Hebrew University of
 
 Each folder contains a summary for a specific course and other useful materials:
 
-- [Introduction to Object Oriented Programming (67125) 🌳](intro-to-object-oriented-programming-67125)  
-- [Computational Models, Computability and Complexity (67521) ⚙️](computational-models-computability-and-complexity-67521)  
-- [Databases (67506) 🛢️](databases-67506)  
+- [Algorithms in Computational Biology (76558) 🧬](algorithms-in-computational-biology-76558)
+- [Computational Models, Computability and Complexity (67521) ⚙️](computational-models-computability-and-complexity-67521)
+- [Cyber Law (67398) ⚖️](cyber-law-67398)
+- [Databases (67506) 🛢️](databases-67506)
+- [Introduction to Communication Networks (67594) 🌐](intro-to-communication-networks-67594)
+- [Introduction to Object Oriented Programming (67125) 🧩](intro-to-object-oriented-programming-67125)  
+
 
 ---
 
