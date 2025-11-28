@@ -6,7 +6,7 @@ This summary was chosen as the official student summary for 2026 Semester A.
 Note: This summary is still being written.
 
 ## 📄 Contents
-- `Introduction to Communication Networks Summary.pdf` — Full summary of the course.
+- `Intro to Communication Networks Summary.pdf` — Full summary of the course.
 
 ## 📚 Main Topics Covered
 - Topic 1: Circuit Switching
