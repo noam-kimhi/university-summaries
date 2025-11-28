@@ -1,4 +1,4 @@
-# Introduction to Object Oriented Programming 🌳 — Summary
+# Introduction to Object Oriented Programming 🧩 — Summary
 
 This folder contains my summary for the course **Object Oriented Programming** (67125) taught at Hebrew University of Jerusalem (2025).
 
