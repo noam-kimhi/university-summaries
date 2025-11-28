@@ -3,7 +3,7 @@
 This folder contains my summary for the course **Object Oriented Programming** (67125) taught at Hebrew University of Jerusalem (2025).
 
 ## 📄 Contents
-- `intro to object oriented programming summary.pdf` — Full summary of the course.
+- `Intro to Object Oriented Programming Summary.pdf` — Full summary of the course.
 
 ## 📚 Topics Covered
 - Topic 1: Intro to Objects and Java
