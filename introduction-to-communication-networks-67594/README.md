@@ -35,5 +35,5 @@ I do not own the rights to the original course materials.
 This summary is provided solely for personal study and non-commercial use.
 
 ## ⚠️ Disclaimer
-This is **not** official course material**.
+This is **not** official course material**.  
 Content may include personal interpretations, abbreviations, or subtle mistakes.
