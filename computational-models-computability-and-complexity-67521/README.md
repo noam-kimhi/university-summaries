@@ -4,7 +4,7 @@ This folder contains my summary for the course **Computational Models, Computabi
 This summary was chosen as the official student summary for 2025 Semester B.
 
 ## 📄 Contents
-- `computational models computability and complexity summary.pdf` — Full summary of the course.
+- `Computational Models Computability and Complexity Summary.pdf` — Full summary of the course.
 
 ## 📚 Main Topics Covered
 - Topic 1: Deterministic Finite Automata (DFA)
