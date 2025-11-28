@@ -34,4 +34,6 @@ This summary is provided solely for personal study and non-commercial use.
 
 ## ⚠️ Disclaimer
 This is **not** official course material**.  
-Content may include personal interpretations, abbreviations, or subtle mistakes.
+Content may include personal interpretations, abbreviations, or subtle mistakes.  
+Shoutout to [**OrF8**](https://github.com/OrF8) for helping out with Bookmarks!
+
