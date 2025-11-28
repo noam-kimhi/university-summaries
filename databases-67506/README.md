@@ -3,8 +3,8 @@
 This folder contains my summary for the course **Databases** (67506) taught at Hebrew University of Jerusalem (2025).
 
 ## 📄 Contents
-- `Databases Summary.pdf` — Full summary of the course.
 - `Algorithms For DB.pdf` — Short summary of required algorithms for the course.
+- `Databases Summary.pdf` — Full summary of the course.
 
 ## 📚 Summary - Topics Covered
 - Topic 1: ER Diagrams
