@@ -1,6 +1,6 @@
 # Introduction to Communication Networks 🌐 — Summary
 
-This folder contains my summary for the course **Introduction to Communication Networks** (67594) taught at Hebrew University of Jerusalem (2025).
+This folder contains my summary for the course **Introduction to Communication Networks** (67594) taught at Hebrew University of Jerusalem.
 This summary was chosen as the official student summary for 2026 Semester A.
 
 Note: This summary is still being written.
