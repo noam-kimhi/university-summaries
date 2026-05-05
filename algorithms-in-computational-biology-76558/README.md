@@ -3,8 +3,6 @@
 This folder contains my summary for the course **Algorithms in Computational Biology** (76558) taught at Hebrew University of Jerusalem.
 This summary was chosen as the official student summary for 2026 Semester A.
 
-Note: This summary is still being written.
-
 ## 📄 Contents
 - `Algorithms in Computational Biology Summary.pdf` — Full summary of the course.
 
