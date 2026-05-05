@@ -21,6 +21,18 @@ Note: This summary is still being written.
 - Topic 10: Heuristics for Sequence Alignment
 - Topic 11: Markov Chains & Hidden Markov Models (HMMs)
 - Topic 12: Epigenomic & Chromatin Modeling Tools (e.g., ChromHMM)
+- Topic 13: Maximum Probability Reconstruction & Latent Variable Learning (MM/EM Algorithms)
+- Topic 14: Genome Organization, Chromatids & Advanced Epigenetic/Protein Marking Models
+- Topic 15: Phylogenetic Trees & Evolutionary Reconstruction Algorithms (UPGMA, Neighbor Joining)
+- Topic 16: Distance Metrics & Comparative Genomics
+- Topic 17: Genome Assembly & Metagenomics (De Bruijn Graphs)
+- Topic 18: Energy-Based Optimization in Biological Systems & Non-Convex Problems
+- Topic 19: Temporal Models in Phylogenetics, Kimura Model & Multiple Sequence Alignment (MSA)
+- Topic 20: Molecular Structures & Protein Structure Prediction
+- Topic 21: Cancer Genomics, Genetic Diagnosis & Precision Medicine
+- Topic 22: Single-Cell Sequencing Technologies & Transcriptomic Analysis
+- Topic 23: Dimensionality Reduction & Gene Expression Modeling in Single-Cell Data
+- Topic 24: Proteomics & Mass Spectrometry in Computational Biology
 
 ## 📚 Purpose
 This summary was created for:
