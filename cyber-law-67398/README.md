@@ -3,8 +3,6 @@
 This folder contains my summary for the course **Cyber Law** (67398) taught at Hebrew University of Jerusalem.
 This summary was chosen as the official student summary for 2026 Semester A.
 
-Note: This summary is still being written.
-
 ## 📄 Contents
 - `Cyber Law Summary.pdf` — Full summary of the course.
 
@@ -19,6 +17,16 @@ Note: This summary is still being written.
 - Topic 8: The Computers Law (1995)
 - Topic 9: Digital Law Enforcement & Website Blocking
 - Topic 10: Emerging Technologies: Autonomous Vehicles, Drones & AI Regulation
+- Topic 11: Intellectual Property in Cyberspace (Copyright, Patents, Trademarks & Domain Names)
+- Topic 12: AI Governance, Algorithmic Regulation & Global Regulatory Frameworks (EU AI Act, US, GDPR)
+- Topic 13: Digital Privacy, Personal Data Protection & the Right to be Forgotten
+- Topic 14: Israeli Privacy Law & International Data Protection Standards
+- Topic 15: Digital Inheritance, Personal Digital Assets & Estate Law
+- Topic 16: Cybersecurity Governance, Risk Management & Regulatory Strategy
+- Topic 17: International Law, Cyber Warfare, Tallinn Manual & Future Laws of Armed Conflict
+- Topic 18: National Cyber Law & State-Level Cyber Regulation
+- Topic 19: Startup Legal Strategy, Commercial Agreements & Technology Business Regulation
+- Topic 20: Employment Law in the Digital Era (Workplace Rights, AI & Employee Termination)
 
 ## 📚 Purpose
 This summary was created for:
